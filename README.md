@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning React and Spring Boot
-- 👯 I’m looking to collaborate on C,Java and Python projects
+- 👯 I’m looking to collaborate on C ,Java and Python projects
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Java and Python
-- 📫 How to reach me: [github](https://github.com/ravdsn)
+- 📫 How to reach me: [github](https://github.com/ravdsn) [LinkedIn](https://www.linkedin.com/in/ravindu-dilshan/)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
